@@ -9,4 +9,3 @@ Two additional Buttons are added for showing Day-wise weather and Hour-wise weat
                         4.LocationServices  
                         5.Butterknife  
 -->MVP Architecture with appropriate models and UI are used.  
--->
